@@ -30,7 +30,7 @@ return(
       </li>
 
     <li><Link to="Index"><span>About Me</span></Link></li>
-    <li><Link to="/Portfolio">Portfolio</Link></li>
+    <li><Link to="Portfolio">Portfolio</Link></li>
   </ul>
 
 </nav>
