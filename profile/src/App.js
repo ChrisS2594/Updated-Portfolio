@@ -5,7 +5,8 @@ import Portfoliopg from "./pages/portfolio";
 import Nav from "./components/Nav/nav";
 import Contact from "./pages/contact";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-
+import About from "./pages/aboutme";
+import Foot from "./components/foot/foot";
 
 function App() {
   return (
@@ -23,10 +24,10 @@ function App() {
         <Route exact path="/" component={Index} />
         <Route exact path="/portfolio" component={Portfoliopg} />
         <Route exact path="/contact" component={Contact} />
-
+        <Route exact path="/aboutme" component={About} />
       </div>
       </div>
-
+      <Foot />
       </Router>
   );
 }

@@ -14,8 +14,8 @@ return(
   <ul>
     
     
-      <li><Link to="/">Home Page</Link> </li>
-    <li><Link to="/index"><span>About Me</span></Link></li>
+    <li><Link to="/">Home Page</Link> </li>
+    <li><Link to="/aboutme">About Me</Link></li>
     <li><Link to="/portfolio">Portfolio</Link></li>
     <li><Link to ="/contact">Contact</Link></li>
   </ul>

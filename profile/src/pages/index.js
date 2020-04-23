@@ -7,7 +7,7 @@ import Portfolio from "./../assets/images/portfolio.jpg";
 export default function index() {
 return(
  <div className="kansas">
-   <h2>About Me</h2>
+   <h2>Welcome</h2>
     
       <img src={Portfolio} className="picture" alt="profile" />
     

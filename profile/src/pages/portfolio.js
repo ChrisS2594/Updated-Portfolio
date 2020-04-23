@@ -15,7 +15,13 @@ return(
   <li><Link to="#">Group Project 2: Rate My Roomie </Link></li>
   <li><Link to="#">Group Project 3: Ocean Consercation (Using React)</Link></li>
 </ul>
-
+<br />
+<h1>Personal Projects and Assignments</h1>
+<ul>
+<li><Link to="#">to be updated</Link></li>
+  <li><Link to="#">to be updated</Link></li>
+  <li><Link to="#">to be updated</Link></li>
+</ul>
 </div>
 
 
